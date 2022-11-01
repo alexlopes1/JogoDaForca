@@ -1,3 +1,5 @@
+# Alex e Rychard
+
 import os
 import sys
 def restart_program():
